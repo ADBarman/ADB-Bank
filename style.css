@@ -10,3 +10,6 @@ body{
 .submit-area:hover{
     box-shadow: 5px 5px 10px rgb(165, 247, 189);
 }
+#transaction-area{
+    display: none;
+}
