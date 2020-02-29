@@ -2,7 +2,7 @@ body{
     padding: 100px;
 }
 .submit-area{
-    margin: 100px;
+    margin: 50px;
     padding: 40px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
@@ -12,4 +12,22 @@ body{
 }
 #transaction-area{
     display: none;
+}
+.txtBtm{
+    margin-bottom: 50px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
 }
